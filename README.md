@@ -29,6 +29,6 @@ The Updates: Updating my resume is as simple as pushing a new git commit. No ser
 You don't need to download a file. Open your Linux, Mac, or Windows (WSL) terminal and run the following command to `GET` my resume directly via the web:
 
 ```bash
-curl [https://maiiapiyushhoon.github.io/resume-api/resume.json](https://maiiapiyushhoon.github.io/resume-api/resume.json)
+curl [https://maiipiyushhoon.github.io/resume-api/resume.json](https://maiiapiyushhoon.github.io/resume-api/resume.json)
 
 
