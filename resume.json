@@ -1,0 +1,37 @@
+{
+  "basics": {
+    "name": "Patel Piyush",
+    "title": "Aspiring DevOps Engineer",
+    "location": "India",
+    "objective": "BCA student specializing in Cloud Computing, building enterprise-grade CI/CD pipelines and serverless architectures.",
+    "contact": {
+      "github": "https://github.com/maiiapiyushhoon",
+      "linkedin": "https://linkedin.com/in/patel-piyush"
+    }
+  },
+  "education": [
+    {
+      "institution": "Parul University",
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "specialization": "Cloud Computing",
+      "status": "In Progress"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "Bash", "C"],
+    "cloud_and_devops": ["GitHub Actions (CI/CD)", "AWS", "Linux (Ubuntu/Termux)"],
+    "tools": ["Git", "Discord Webhooks", "Telegram APIs"]
+  },
+  "featured_projects": [
+    {
+      "name": "Serverless Heartbeat",
+      "description": "A zero-cost GitOps pipeline using Python and GitHub Actions to track site latency and trigger Discord alerts.",
+      "url": "https://github.com/maiiapiyushhoon/serverless-heartbeat"
+    },
+    {
+      "name": "CloudWatch-Prober",
+      "description": "Real-time uptime monitoring system designed to send alerts to Discord and Telegram.",
+      "url": "https://github.com/maiiapiyushhoon/CloudWatch-Prober"
+    }
+  ]
+}
