@@ -18,15 +18,22 @@ Why send a static PDF when you can serve structured data? This repository acts a
 It is designed for recruiters and senior engineers who prefer to stay in the command line.
 
 ##🏗️ The Architecture
+
 This project demonstrates an understanding of stateless data delivery and GitOps principles:
 The Database: A flat resume.json file acting as the single source of truth.
+
 The CDN: Hosted entirely on GitHub Pages, providing a fast, serverless, and globally distributed endpoint without the need for traditional backend routing.
+
 The Updates: Updating my resume is as simple as pushing a new git commit. No servers to manage.
 
 👨‍💻 About the Author
+
 Patel Piyush Aspiring DevOps Engineer & Cloud Computing Student
+
 I build enterprise-grade CI/CD pipelines, automated incident response systems, and serverless architectures.
+
 🔗 GitHub: @maiiapiyushhoon
+
 💼 LinkedIn: Patel Piyush
 
 ## 🚀 How to Fetch
